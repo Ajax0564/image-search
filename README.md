@@ -5,7 +5,7 @@ This is based on Resnet-50 model using Google DELF model accurecy can be signifi
 
 
 
-    ![input image for search]  (https://github.com/Ajax0564/image-search/blob/master/input.png)
+    ![input]  (https://github.com/Ajax0564/image-search/blob/master/input.png)
     
     
     
@@ -17,7 +17,7 @@ This is based on Resnet-50 model using Google DELF model accurecy can be signifi
     
     
     
-    ![out put] (https://github.com/Ajax0564/image-search/blob/master/output.png)
+    ![output] (https://github.com/Ajax0564/image-search/blob/master/output.png)
     
     
    
